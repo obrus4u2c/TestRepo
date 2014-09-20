@@ -27,3 +27,8 @@
 *.i*86
 *.x86_64
 *.hex
+//Now committing the changes to the file
+#Executables
+*.dss
+*.css
+*.rtt
